@@ -29,7 +29,7 @@
             box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
             border-radius: 12px;
             text-align: center;
-            background-color: #e6f7ff;
+            background-color: #ffe2b0;
             color: #333;
         }
 
@@ -44,7 +44,7 @@
 
         .btn {
             width: 100%;
-            background-color: #4CAF50;
+            background-color: #2596be;
             color: white;
             padding: 10px;
             border: none;
@@ -59,7 +59,7 @@
         }
 
         .temp-convert-btn {
-            background-color: #ffcc00;
+            background-color: #d7bf64;
             margin-top: 15px;
         }
 
