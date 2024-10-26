@@ -13,9 +13,9 @@ The *Weather Fetcher App* is a Java EE project designed to fetch and display rea
 *Step 3.* Open NetBeans and navigate to the folder where you cloned or downloaded the project. Select the project to open it.
 
 *Step 4.* Obtain OpenWeatherMap API Key by
- - Sign up at OpenWeatherMap to get an API key.
- - Insert the API key into the WeatherServlet.java file:
-private static final String API_KEY = "your_openweathermap_api_key";
+- Sign up at [OpenWeatherMap](https://home.openweathermap.org/users/sign_up) to get an API key.
+- Insert the API key into the `WeatherServlet.java` file as follows:
+  private static final String API_KEY = "your_openweathermap_api_key";
 
 *Step 5.* Start the Tomcat server, then run the project in NetBeans. Access the application in your browser at:
 http://localhost:8080/WeatherMonitoring/weather
